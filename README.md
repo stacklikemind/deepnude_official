@@ -65,7 +65,7 @@ Before launch the script install these packages in your **Python3** environment:
 
 # Models
 
-To run the script you need the pythorch models: the large files (700MB) that are on the net (**cm.lib**, **mm.lib**, **mn.lib**). Put these file in a dir named: **checkpoints**.
+To run the script you need the pytorch models: the large files (700MB) that are on the net (**cm.lib**, **mm.lib**, **mn.lib**). Put these file in a dir named: **checkpoints**.
 
 # Launch the script
 
